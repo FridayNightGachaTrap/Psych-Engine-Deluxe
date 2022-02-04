@@ -1,0 +1,6 @@
+-(4.0.0)-
+play as dad now has direnctions when you miss
+added yellow as a character
+added respawn without animation option in gameplay settings
+removed donate option (will readd so you can add donate to support us!)
+added textbox to credits
