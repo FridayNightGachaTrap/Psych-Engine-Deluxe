@@ -10,3 +10,4 @@ editable noteskins!! (in visuals ui!)
 added 1 new noteskin
 made triple trouble stage have custom ratings and custom ready set go assets
 more intro text
+added playable tord
