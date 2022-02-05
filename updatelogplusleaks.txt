@@ -8,6 +8,7 @@ added textbox to credits
 editable noteskins!! (in visuals ui!)
 -(4.5.0)-
 new noteskins
+notes?
 made triple trouble stage have custom ratings and custom ready set go assets
 more intro text
 added playable tord
@@ -16,3 +17,5 @@ darker event arrow
 bf-pixel losing icon
 mad senpai icons and losing senpai icons plus losing spirit icons
 losing gf icon
+now supports pixel notes of note skins but not long notes
+dfjk pixel notes made by me
