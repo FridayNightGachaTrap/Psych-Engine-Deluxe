@@ -15,6 +15,7 @@ added playable tord
 lowered health miss and hit health changes by 1
 darker event arrow
 bf-pixel losing icon
+hex like cutscences in lua in the mods folder not built in through source
 mad senpai icons and losing senpai icons plus losing spirit icons
 losing gf icon
 now supports pixel notes of note skins but not long notes
