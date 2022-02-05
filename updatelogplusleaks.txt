@@ -1,7 +1,12 @@
 -(4.0.0)-
 play as dad now has directions when you miss
 added yellow as a character
+new intro text
 added respawn without animation option in gameplay settings
 removed donate option (will readd so you can add donate to support us!)
 added textbox to credits
 editable noteskins!! (in visuals ui!)
+-(4.5.0)-
+added 1 new noteskin
+made triple trouble stage have custom ratings and custom ready set go assets
+more intro text
