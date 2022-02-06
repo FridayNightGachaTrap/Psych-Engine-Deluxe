@@ -12,6 +12,7 @@ notes?
 made triple trouble stage have custom ratings and custom ready set go assets
 more intro text
 added playable tord
+ported achivement maker over
 lowered health miss and hit health changes by 1
 darker event arrow
 bf-pixel losing icon
