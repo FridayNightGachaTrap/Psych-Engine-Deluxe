@@ -25,6 +25,8 @@ dfjk pixel notes made by me
 challeng-edd mod that can be enabled in the mods menu (no reset needed!)
 henryliamed week
 fixed senpai loosing icon
+improved playasdad code
 week 7 + its unused achivement
 new intro texts
 removed main-view.xml to reduce lag
+new ratings
