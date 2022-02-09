@@ -21,3 +21,7 @@ mad senpai icons and losing senpai icons plus losing spirit icons
 losing gf icon
 now supports pixel notes of note skins but not long notes
 dfjk pixel notes made by me
+-(5.0.0)-
+challeng-edd mod that can be enabled in the mods menu (no reset needed!)
+henryliamed week
+fixed senpai loosing icon
