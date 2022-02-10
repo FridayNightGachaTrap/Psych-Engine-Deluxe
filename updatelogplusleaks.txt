@@ -31,6 +31,5 @@ week 7 + its unused achivement
 new intro texts
 removed main-view.xml to reduce lag
 new ratings
-new noteskin
 code optimization
 music man song
