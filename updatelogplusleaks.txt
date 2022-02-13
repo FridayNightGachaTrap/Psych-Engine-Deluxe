@@ -33,3 +33,10 @@ removed main-view.xml to reduce lag
 new ratings
 code optimization
 music man song
+-(5.5.0)-
+remastered music man song (thx cusion!)
+rewrote all of the code and downgraded the version
+bf skins!
+dfjk with box notes
+new events
+made every mod character on the source code side
